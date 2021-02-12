@@ -1,0 +1,6 @@
+public class employee{
+int emp_id;
+string emane;
+double salaray;
+public employee()
+}
